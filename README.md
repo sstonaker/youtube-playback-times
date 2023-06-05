@@ -8,6 +8,8 @@ If you ever find yourself bookmarking lots of videos to watch later, this extens
 You can manage your available time better by selecting videos from your bookmarks that correspond
 to the time you have available for viewing.
 
+![Preview](https://stevenstonaker.com/img/playbacktimes_home.png)
+
 ## Installation and Use
 
 You will need a Google API key to use this extension. Unfortunately video durations are behind Google's API.
