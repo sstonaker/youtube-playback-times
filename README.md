@@ -20,4 +20,4 @@ You will need a Google API key to use this extension. Unfortunately video durati
 
 ### Chrome Extension Store
 
-Pending Approval
+[Install from the Chrome Web Store](https://chrome.google.com/webstore/detail/youtube-playback-times/onkiokildbaddomcpekhkokbiaehejbd)
